@@ -9,7 +9,7 @@ int dec(int x) => --x;
 
 /* Using Increasing Function
 As a Parameter in The Below 'Apply' Function.
-/*
+*/
 
 int apply(int x, Function f) {
   return f(x);

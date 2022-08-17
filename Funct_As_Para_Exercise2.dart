@@ -29,5 +29,5 @@ return sum;
 
 void fnal(String s, Function Temp ){
 
-print("$s ${add()}");
+print("$s ${Temp()}");
 }

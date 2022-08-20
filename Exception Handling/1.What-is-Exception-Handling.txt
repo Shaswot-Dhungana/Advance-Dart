@@ -1,0 +1,30 @@
+An exception (or exceptional event) is a problem 
+that arises during the execution of a program.
+ When an Exception occurs the normal flow of
+ the program is disrupted and the program/Application 
+terminates abnormally.
+
+
+Built-in Dart exceptions Are :~ 
+
+
+1. DeferredLoadException :~ Thrown when a deferred library fails to load.
+
+
+
+2. FormatException :~ Exception thrown when a string or some
+ other data does not have an expected format and cannot be
+ parsed or processed.
+
+
+3. IntegerDivisionByZeroException :~ Thrown when a number is divided by zero.
+
+
+4. IOException :~ Base class for all Inupt-Output related exceptions.
+
+
+5. IsolateSpawnException :~ Thrown when an isolate cannot be created.
+
+
+6. Timeout :~ Thrown when a scheduled timeout happens while waiting for an async result.
+
